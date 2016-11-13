@@ -398,7 +398,7 @@ display:inline-block;
 }
 /*--about--*/
 #about {
-  background: #F4F4F4;
+  background: url(../images/1-8.jpg);
   padding: 5em 0;
 }
 h3.tittle {
@@ -520,7 +520,7 @@ h3.tittle {
 .experience {
   padding-top: 2em;
   min-height: 856px;
-  background:url(../images/news_tbg.jpg);
+  background:url(../images/74.jpg);
   background-size: cover;
   opacity: 0.6
   
@@ -610,9 +610,9 @@ span.devide-line {
 /*--experience-end--*/
 /*--my skill--*/
 .my-skills{
-	background:pink;
+	background:url(../images/c6.jpg);
     padding: 5em 0;
-    height:856px
+    height:556px
 }
 .my-skills h3{
   margin: 0;
@@ -758,6 +758,17 @@ h3.tittle.port {
 .b-animate-go{
 	text-decoration:none;
 }
+.zuopin{
+  width:100%;
+height:458px;
+  background:red;
+}
+.etop{
+  width:100%;
+  height:20px;
+  text-align: center;
+  font-size: 20px;
+}
 .b-animate{
 	transition: all 0.5s;
 	-moz-transition: all 0.5s;
@@ -771,6 +782,10 @@ h3.tittle.port {
 /* lt-ie9 */
 .b-animate-go:hover .b-animate{
 	visibility:visible;
+}
+.b-animate-go img{
+  width:380px;
+  height:282px;
 }
 .b-from-left{
   position: relative;
@@ -809,7 +824,7 @@ h3.tittle.port {
 
 .gallery {
    padding:20px 0;
-  background:url(../images/header.jpg);
+  background:url(../images/74.jpg);
 }
 .gallery_1{
 	margin:3em 0 0 0;
@@ -976,7 +991,7 @@ h3.tittle.two {
 	  text-align: center;
 	}
 	.banner {
-	  background:url(../images/bg.jpg) no-repeat;
+	  background:url(../images/8_2.jpg) no-repeat;
 	  background-size: cover;
     background-attachment: fixed;
     min-height: 700px;
